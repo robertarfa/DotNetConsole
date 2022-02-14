@@ -1,0 +1,16 @@
+C:\Users\rober\OneDrive\CURSOS\App-web\DotNetConsole\bin\Debug\net5.0\DotNetConsole.exe
+C:\Users\rober\OneDrive\CURSOS\App-web\DotNetConsole\bin\Debug\net5.0\DotNetConsole.deps.json
+C:\Users\rober\OneDrive\CURSOS\App-web\DotNetConsole\bin\Debug\net5.0\DotNetConsole.runtimeconfig.json
+C:\Users\rober\OneDrive\CURSOS\App-web\DotNetConsole\bin\Debug\net5.0\DotNetConsole.runtimeconfig.dev.json
+C:\Users\rober\OneDrive\CURSOS\App-web\DotNetConsole\bin\Debug\net5.0\DotNetConsole.dll
+C:\Users\rober\OneDrive\CURSOS\App-web\DotNetConsole\bin\Debug\net5.0\ref\DotNetConsole.dll
+C:\Users\rober\OneDrive\CURSOS\App-web\DotNetConsole\bin\Debug\net5.0\DotNetConsole.pdb
+C:\Users\rober\OneDrive\CURSOS\App-web\DotNetConsole\obj\Debug\net5.0\DotNetConsole.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\CURSOS\App-web\DotNetConsole\obj\Debug\net5.0\DotNetConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\OneDrive\CURSOS\App-web\DotNetConsole\obj\Debug\net5.0\DotNetConsole.AssemblyInfoInputs.cache
+C:\Users\rober\OneDrive\CURSOS\App-web\DotNetConsole\obj\Debug\net5.0\DotNetConsole.AssemblyInfo.cs
+C:\Users\rober\OneDrive\CURSOS\App-web\DotNetConsole\obj\Debug\net5.0\DotNetConsole.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\CURSOS\App-web\DotNetConsole\obj\Debug\net5.0\DotNetConsole.dll
+C:\Users\rober\OneDrive\CURSOS\App-web\DotNetConsole\obj\Debug\net5.0\ref\DotNetConsole.dll
+C:\Users\rober\OneDrive\CURSOS\App-web\DotNetConsole\obj\Debug\net5.0\DotNetConsole.pdb
+C:\Users\rober\OneDrive\CURSOS\App-web\DotNetConsole\obj\Debug\net5.0\DotNetConsole.genruntimeconfig.cache
